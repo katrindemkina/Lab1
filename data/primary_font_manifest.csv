@@ -1,0 +1,32 @@
+family,category,source_file,sha256,package,units_per_em,file_size_bytes
+Inter,sans-serif,/usr/share/fonts/opentype/inter/Inter-Regular.otf,d4f2b9e148059a15f014cb0f0b8fea8cd11bfa447dd483bedf1b0adc0e2ba799,not reported,2048,609600
+Inter Display,sans-serif,/usr/share/fonts/opentype/inter/InterDisplay-Regular.otf,35c1f7437dd6d63f4e60a49144df4b4e4edc190e13ffc1e54b86083747fe3acf,not reported,2048,608160
+Lato,sans-serif,/usr/share/fonts/truetype/lato/Lato-Regular.ttf,6f6940be0835c3ddec9199e5fc42be4cbc61ebcfd58c623fdf719366253f1780,fonts-lato,2000,657212
+Roboto,sans-serif,/usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/Roboto-Regular.ttf,797e35f7f5d6020a5c6ea13b42ecd668bcfb3bbc4baa0e74773527e5b6cb3174,not reported,2048,305608
+Roboto Condensed,sans-serif,/usr/share/fonts/truetype/roboto/unhinted/RobotoCondensed-Regular.ttf,936069d5e46da383bff37b629a73e0bfb8b8ac7bc54cfb927fb700f6a890e9aa,not reported,2048,300664
+Open Sans,sans-serif,/usr/share/fonts/truetype/open-sans/OpenSans-Regular.ttf,e64e508b2aa2880f907e470c4550980ec4c0694d103a43f36150ac3f93189bee,not reported,2048,217360
+Open Sans Condensed,sans-serif,/usr/share/fonts/truetype/open-sans/OpenSans-CondBold.ttf,a859a438018739aee16c306586d91a453c208ee500c827d9e9aa063155c8a6e8,not reported,2048,264372
+Liberation Sans,sans-serif,/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf,bade59d822652f76e6941aa87b40a87c13d1cc70db98ededb5011127efafd1d3,fonts-liberation,2048,410820
+Liberation Sans Narrow,sans-serif,/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Regular.ttf,01a388815431ca845040925f4ce1add82afb7de1cbe28a5c39c6c849b94fd847,fonts-liberation-sans-narrow,2048,112644
+DejaVu Sans,sans-serif,/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf,57f73e11f51999432bf7ab22ce55b6f945d5eca1bf824404cfa9ec2e3718c84e,fonts-dejavu-core,2048,759720
+Noto Sans,sans-serif,/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf,89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d,fonts-noto-core,1000,512672
+PT Sans,sans-serif,/usr/share/fonts/truetype/paratype/PTS55F.ttf,3bbff9ab698453a4c705ec9ab9d8f528d21562a684bb6816f157163637eac914,not reported,1000,429172
+PT Sans Caption,sans-serif,/usr/share/fonts/truetype/paratype/PTC55F.ttf,17831d9f44e62fb9b80c91827af8eafa51cb0f61529a7176c9c5135555384e70,not reported,1000,355468
+PT Sans Narrow,sans-serif,/usr/share/fonts/truetype/paratype/PTN57F.ttf,91cc2663e17bd1056f4e7cb06ea9935ed6f75c0216db2e30fff3997ac73cb905,not reported,1000,383848
+Cantarell,sans-serif,/usr/share/fonts/opentype/cantarell/Cantarell-VF.otf,2b77edbd4fef6bb2683dd25dba4c7ba285ad07d6566291623a4225af789a3aaf,not reported,1000,166072
+Nimbus Sans,sans-serif,/usr/share/fonts/opentype/urw-base35/NimbusSans-Regular.otf,7c25be4d78155523080ab85b10277150657ff7dabbcad7037bdd536c9b6d0d08,fonts-urw-base35,1000,82264
+DejaVu Serif,serif,/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf,8cb29f7db250ebb2551a6ce2c1e0bfd5a0eb520e9e233370db0493e82e1f36f7,fonts-dejavu-core,2048,380660
+Liberation Serif,serif,/usr/share/fonts/truetype/liberation/LiberationSerif-Regular.ttf,9caef765d2e891c10dd73658894f01e660fe0c1c83e0bda7d6edf561d8f623d4,fonts-liberation,2048,393692
+Noto Serif,serif,/usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf,9d7583b7dc9e812afd32a14280c5cac3160012efe50c8d08938f4fea266ff67f,fonts-noto-core,1000,588876
+Noto Serif Display,serif,/usr/share/fonts/truetype/noto/NotoSerifDisplay-Regular.ttf,bcdc596729c24044e28c54815ecbe6004f83b10169a49a51160b22f59116249f,fonts-noto-core,1000,559120
+PT Serif,serif,/usr/share/fonts/truetype/paratype/PTF55F.ttf,d074251529defb38523f3d89cfadfc2491515b32c22f154a8fc6b4c184415a69,not reported,1000,327120
+PT Serif Caption,serif,/usr/share/fonts/truetype/paratype/PTZ55F.ttf,43bff31fcb1a3f410df40fc4557d972a0a5d3eb77e3c1d9fa79c99933e2064ad,not reported,1000,366080
+Roboto Slab,serif,/usr/share/fonts/opentype/roboto/slab/RobotoSlab-Regular.otf,1ab154c4863f88a2481f4945591f9b630962daeb95a28a3efb3d84b8733e6f45,not reported,2048,91144
+Nimbus Roman,serif,/usr/share/fonts/opentype/urw-base35/NimbusRoman-Regular.otf,fd41669443616a7ae890c42e53a58f47fa24a940fd1e367acaff665cf5b6e9d8,fonts-urw-base35,1000,98200
+DejaVu Sans Mono,monospace,/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf,54bf827eb99404e8f430c330ad30f063334f637eba0109b6a18d4f566a8e9dd8,fonts-dejavu-mono,2048,343140
+Liberation Mono,monospace,/usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf,5883330d94debd992952cd8f0571b225f478c2d797d3f36c7521b0a5c9bde0f2,fonts-liberation,2048,319624
+Noto Sans Mono,monospace,/usr/share/fonts/truetype/noto/NotoSansMono-Regular.ttf,6b692c4b6d15ccf59f1c1fe8d11cb8a92f51960f3e9f1f523781755a3af7e29f,fonts-noto-mono,1000,510612
+PT Mono,monospace,/usr/share/fonts/truetype/paratype/PTM55F.ttf,984faf0ca006598f8cbaafb834d96189da61f2146405275985b16aa61acd7c48,not reported,1000,180120
+Nimbus Mono PS,monospace,/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Regular.otf,4f225ca8e13acb16f733ce741693105e527d5f7a5443901b9ecc190fca4e149b,fonts-urw-base35,1000,77936
+Comic Neue,display,/usr/share/fonts/opentype/comic-neue/ComicNeue-Regular.otf,2728ee8f303e31934e62bf27b044fd7657b0613412d51f7444db1078cc3a7cb2,not reported,1000,35628
+Lobster Two,display,/usr/share/fonts/opentype/lobstertwo/LobsterTwo-Regular.otf,a2bed04bf1eed1caa82ae250d733bb597ffb599fd66d9882159f061144967a74,not reported,1000,78332
